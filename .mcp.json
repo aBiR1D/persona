@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "persona-market": {
+      "command": "python",
+      "args": ["-m", "persona.mcp.server"],
+      "cwd": ".",
+      "env": {}
+    }
+  }
+}
